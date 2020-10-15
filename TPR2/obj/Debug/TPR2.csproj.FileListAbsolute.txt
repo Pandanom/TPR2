@@ -1,0 +1,14 @@
+C:\Users\stas1\source\repos\TPR2\TPR2\bin\Debug\TPR2.exe.config
+C:\Users\stas1\source\repos\TPR2\TPR2\bin\Debug\TPR2.exe
+C:\Users\stas1\source\repos\TPR2\TPR2\bin\Debug\TPR2.pdb
+C:\Users\stas1\source\repos\TPR2\TPR2\obj\Debug\TPR2.csprojAssemblyReference.cache
+C:\Users\stas1\source\repos\TPR2\TPR2\obj\Debug\TPR2.csproj.CoreCompileInputs.cache
+C:\Users\stas1\source\repos\TPR2\TPR2\obj\Debug\TPR2.exe
+C:\Users\stas1\source\repos\TPR2\TPR2\obj\Debug\TPR2.pdb
+C:\Users\Saas\source\repos\TPR2\TPR2\bin\Debug\TPR2.exe.config
+C:\Users\Saas\source\repos\TPR2\TPR2\bin\Debug\TPR2.exe
+C:\Users\Saas\source\repos\TPR2\TPR2\bin\Debug\TPR2.pdb
+C:\Users\Saas\source\repos\TPR2\TPR2\obj\Debug\TPR2.csprojAssemblyReference.cache
+C:\Users\Saas\source\repos\TPR2\TPR2\obj\Debug\TPR2.csproj.CoreCompileInputs.cache
+C:\Users\Saas\source\repos\TPR2\TPR2\obj\Debug\TPR2.exe
+C:\Users\Saas\source\repos\TPR2\TPR2\obj\Debug\TPR2.pdb
